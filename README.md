@@ -1,0 +1,2 @@
+# backend-notes
+npm install
